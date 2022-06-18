@@ -1,0 +1,10 @@
+[
+  {
+    "package": "cat.dt",
+    "oncran": true
+  },
+  {
+    "package": "s2net",
+    "oncran": true
+  }
+]

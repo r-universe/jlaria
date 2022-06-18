@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cat.dt"]
+	path = cat.dt
+	url = https://github.com/jlaria/cat.dt
+	shallow = true
+	registered = true
+[submodule "s2net"]
+	path = s2net
+	url = https://github.com/jlaria/s2net
+	shallow = true
+	registered = true
